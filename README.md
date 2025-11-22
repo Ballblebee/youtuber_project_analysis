@@ -41,11 +41,11 @@ Version Control	/ Git & GitHub
 🧩 Steps
 1. Load Dataset via API (Python)
 
--Connect to Skill API
+- Connect to Skill API
 
--Fetch dataset in CSV format
+- Fetch dataset in CSV format
 
--Save dataset to /data/original/
+- Save dataset to /data/original/
 
 2. Clean & Prepare Data
 
